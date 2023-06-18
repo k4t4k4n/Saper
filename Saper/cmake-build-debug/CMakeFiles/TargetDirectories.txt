@@ -1,0 +1,3 @@
+C:/Users/jangu/CLionProjects/Saper/cmake-build-debug/CMakeFiles/Saper.dir
+C:/Users/jangu/CLionProjects/Saper/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/jangu/CLionProjects/Saper/cmake-build-debug/CMakeFiles/rebuild_cache.dir
