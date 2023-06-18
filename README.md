@@ -1,6 +1,6 @@
-# Saper
-LMB - klikanie pól
-RMB - dodawanie, usuwanie flagi
+## Saper
+#LMB - klikanie pól
+#RMB - dodawanie, usuwanie flagi
 
 gra kończy się poprzez:
 1. odkrycie wszystkich niezaminowanych pól - plansza przyjmuje kolor zielony
