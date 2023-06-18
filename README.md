@@ -1,4 +1,4 @@
-#Saper
+# Saper
 LMB - klikanie pól, RMB - dodawanie, usuwanie flagi
 
 gra kończy się poprzez:
